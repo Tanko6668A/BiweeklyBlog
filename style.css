@@ -1,0 +1,12 @@
+
+body{
+  font-family:"Comic Sans MS";
+  background-color: rgb(225,225,252);
+}
+h2{
+  background-color:lightsalmon;
+  border: 2px double black
+}
+header{
+  text-align: center;
+}
